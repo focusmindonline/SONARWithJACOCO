@@ -1,0 +1,3 @@
+com\pak\SonarqubeDemoApplication.class
+com\pak\controller\MessageController.class
+com\pak\service\MessageServiceImpl.class

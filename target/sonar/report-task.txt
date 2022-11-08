@@ -1,0 +1,6 @@
+projectKey=com.pak:sonarqube-jacoco
+serverUrl=http://localhost:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://localhost:9000/dashboard?id=com.pak%3Asonarqube-jacoco
+ceTaskId=AYRW93J9TjkapfYKoKGi
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYRW93J9TjkapfYKoKGi
