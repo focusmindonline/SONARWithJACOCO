@@ -92,6 +92,9 @@
 					</execution>
 				</executions>
 			</plugin>
+			
+			<!-- Jacoco Plugin End -->
+			
 		</plugins>
 	</build>
 
