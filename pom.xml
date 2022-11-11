@@ -38,10 +38,12 @@
 				<!-- Optional URL to server. Default value is http://localhost:9000 -->
 				<projectKey>com.pak:sonarqube-demo</projectKey>
 				<sonar.host.url>
-					http://localhost:9000
+				<!--	http://localhost:9000 -->
+					http://3.110.87.47:9000
 				</sonar.host.url>
 				 <sonar.login>
-				squ_75877f550137c250939c3206ee222722dff136cb
+			<!--	squ_75877f550137c250939c3206ee222722dff136cb -->
+					 squ_157f5c6cd81de1ab391a66e7d82d79a8a6b2aec9
 				 </sonar.login>
 			</properties>
 		</profile>
